@@ -4,7 +4,7 @@ README.md
 <img src="https://user-images.githubusercontent.com/91080406/187878848-a4f76322-d08f-4a6d-b5a8-435b22312f7e.jpg" width="600">  
    
 ![training_never_ends](https://user-images.githubusercontent.com/91080406/187915576-6f8d4ad3-b426-4c43-ad19-afb9784bae2a.gif)
-<\p>
+</p>
 
 
 
