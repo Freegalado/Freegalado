@@ -20,7 +20,7 @@ https://github.com/tameemsafi/typewriterjs/tree/ca969c37d9639c68091e9f9c896bcccf
  </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎   
-- 👨‍🎓 I'm a transportation researcher  
+- 👨‍🎓 I'm a transportation researcher transitioning into a data scientist.  
 - 👀 I’m interested in sci-fi, science, hiking... 
  
 
